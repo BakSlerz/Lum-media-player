@@ -76,7 +76,7 @@ lum-player [plik]
 
 ## Licencja
 
-Ten projekt jest udostępniany na licencji MIT.
+Ten projekt jest udostępniany na licencji GPL
 
 ## Autor
 
