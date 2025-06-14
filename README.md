@@ -78,6 +78,3 @@ lum-player [plik]
 
 Ten projekt jest udostępniany na licencji GPL
 
-## Autor
-
-[BakSlerz](https://github.com/BakSlerz)
